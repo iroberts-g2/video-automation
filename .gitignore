@@ -11,6 +11,7 @@ music/
 # Remotion
 remotion/node_modules/
 remotion/cache/
+remotion/public/
 
 # Python
 __pycache__/
