@@ -1,0 +1,20 @@
+G2 Clip Finder — video-35.mp4
+============================================================
+
+Clip #1
+  Time:     49.88s → 55.3s
+  Criteria: SPECIFIC, EMOTIONAL
+  Quote:    "The pricing for the employer as record. So this is quite high."
+  Why:      Calls out a concrete product feature (Employer of Record pricing) with clear frustration, making it highly relatable and shareable for buyers evaluating cost.
+
+Clip #2
+  Time:     77.62s → 83.14s
+  Criteria: SPECIFIC, EMOTIONAL
+  Quote:    "On a scale from 1 to 10, how likely are you to recommend remote to a friend or colleague? Eight."
+  Why:      A concrete NPS-style score of 8/10 provides a specific, instantly digestible signal of satisfaction that resonates with prospective buyers.
+
+Clip #3
+  Time:     22.34s → 25.6s
+  Criteria: SPECIFIC, COMPARATIVE
+  Quote:    "Hiring staff in Europe when we're based in the UK."
+  Why:      Describes a concrete cross-border hiring scenario (UK company hiring in Europe) that clearly frames the problem Remote solves, making it relatable to similar businesses.

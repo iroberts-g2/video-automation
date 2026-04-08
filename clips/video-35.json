@@ -1,0 +1,11 @@
+{
+  "question": "Remote",
+  "logoFile": "remote.png",
+  "bgColor": "#000000",
+  "textColor": "#FFFFFF",
+  "outroText": "A G2 Verified Review",
+  "outroLogoFile": "g2-logo.svg",
+  "musicFile": "music/sgbt-short.wav",
+  "speakerName": "George Poulos",                                                                                                                    
+  "speakerTitle": "Remote worker" 
+}

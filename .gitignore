@@ -1,0 +1,27 @@
+# Generated video outputs
+clips/*.mp4
+clips/*.webm
+produced/
+
+# Source material (large binaries)
+Source video/
+Remote User Review/
+music/
+
+# Remotion
+remotion/node_modules/
+remotion/cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
